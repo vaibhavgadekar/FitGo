@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="325" height="140" viewBox="0 0 325 140">
+  <defs>
+    <clipPath id="clip-Artboard_2">
+      <rect width="325" height="140"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_2" data-name="Artboard – 2" clip-path="url(#clip-Artboard_2)">
+    <rect width="325" height="140" fill="#e5e1e1"/>
+    <text id="FitGo" transform="translate(108 86)" fill="#707070" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">FitGo</tspan></text>
+  </g>
+</svg>
